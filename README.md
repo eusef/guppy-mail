@@ -1,3 +1,15 @@
+```
+What is this project?
+
+Guppy Mail is a small project that I have been working on as a proof of concept. 
+
+This project's goal is to fully define and create an MVP of a product that takes advantage of the benefits of AI while building something that is an actual painpoint of the end user.
+
+Guppy Mail already has a working prototype in n8n.io send me a message to learn more.
+```
+
+
+
 # Guppy Mail
 
 ## Product Overview
